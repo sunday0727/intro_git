@@ -1,3 +1,6 @@
 はじめてのgit練習
 ・git add
 ・git commit
+・git status
+・git log
+・git rm
